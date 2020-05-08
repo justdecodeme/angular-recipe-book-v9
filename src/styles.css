@@ -1,10 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 .row {
-    background-color: lightblue;
+    background-color: rgb(216, 216, 216);
     margin-bottom: 5px;
 }
 [class^=col-] {
-    background-color: lightgreen;
+    background-color: rgb(187, 187, 187);
     background-clip: content-box;
     margin-bottom: 5px;
 }
